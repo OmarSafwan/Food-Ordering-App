@@ -1,16 +1,3 @@
-# restaurant_projct
+I developed a Flutter-based restaurant ordering application designed for a seamless and user-friendly experience. The app features an intuitive menu interface showcasing delicious burgers with images, prices, and ratings. Users can browse items, view best-seller recommendations, and place orders effortlessly.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+With a focus on performance optimization and smooth API integration, the app ensures a fast, interactive, and visually appealing experience. The modern UI design, responsive layout, and fluid navigation enhance user engagement, making the ordering process simple and efficient.
